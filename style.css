@@ -1,0 +1,10 @@
+body { 
+    font-family:sans-serif; 
+    font-weight:bold; 
+    font-size:16pt;
+    color: green;
+    background-image: url("snake.jpg")
+}
+h2 {
+    color: green;
+}
